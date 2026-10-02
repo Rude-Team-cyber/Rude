@@ -1,0 +1,14 @@
+{
+  "name": "rude-cyber-team-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot with Dynamic Commands and Pairing Code Interface",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "express": "^4.18.2",
+    "pino": "^8.14.0"
+  }
+}
